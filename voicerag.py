@@ -3,7 +3,6 @@ import threading
 import pyaudio
 import wave
 import io
-from TTS.api import TTS
 import sounddevice as sd
 import numpy as np
 from langchain.vectorstores import Chroma
