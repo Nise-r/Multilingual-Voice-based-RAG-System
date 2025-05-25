@@ -1,0 +1,11 @@
+pyaudio
+numpy
+sounddevice
+faster-whisper
+langchain
+chromadb
+sentence-transformers
+piper-tts
+deep-translator
+langchain-groq
+tk
