@@ -4,7 +4,7 @@ This project is an interactive voice-based chatbot that takes spoken input from 
 
 ## 🎨 Images
 
-
+![Alt text](images/img1.png)
 
 ## 🚀 Features
 
@@ -56,7 +56,7 @@ os.environ['GROQ_API_KEY'] = 'YOUR_API_KEY'
 ```
 ### 5️⃣ Run the Application
 ```bash
-python main.py
+python voicerag.py
 ```
 
 ## 🎛️ Usage Instructions
